@@ -44,5 +44,14 @@
 
 </td></tr></table>  
 
+<br/>
+
+## 📘 My last project
+
+<p align="left">
+    <a href="https://github.com/siimondv/Lingua-Guess"><img width="25%" src="https://github.com/user-attachments/assets/8f0b71a6-e62f-4000-baed-b0f6cd53d6a5"></a>
+
+</p>
+
 
 
