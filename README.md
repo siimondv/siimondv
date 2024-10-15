@@ -45,8 +45,4 @@
 </td></tr></table>  
 
 
-## Most Used Languages
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siimondv&show_icons=true&layout=compact&theme=vue&hide_border=true&count_private=true&hide=html,css,javascript&exclude_repo=Project-NinjaUnity,MadPlanetsUnity2D&langs_count=6" align="center" /></div>  
-
-<br/>
 
