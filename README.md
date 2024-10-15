@@ -39,7 +39,7 @@
 ### Others  
 <div align="left">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,azure,aws" />
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,bitbucket" />
+      <img src="https://skillicons.dev/icons?i=git,github,postman,figma,bitbucket" />
 </div>
 
 </td></tr></table>  
