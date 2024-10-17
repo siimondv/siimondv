@@ -8,7 +8,7 @@
 
  🔭 I’m currently working on **language learning android app**
 
- 🖥️  See my linkedin at [here](https://www.linkedin.com/in/sim%C3%B3n-delgado/)
+ 🖥️  See my linkedin at [here](https://www.linkedin.com/in/simondv2)
 
  </div>
 
