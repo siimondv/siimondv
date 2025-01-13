@@ -1,4 +1,4 @@
-### <div align="center">Hi 👋 I am Simón, a software developer 👨‍💻</div>  
+### <div align="center">Hi 👋 I am Simón, a mobile developer 👨‍💻</div>  
 
 <br/>
 
