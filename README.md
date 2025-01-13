@@ -6,7 +6,7 @@
 
  🌍  I'm based in Madrid
 
- 🔭 I’m currently working on **language learning android app**
+ 🔭 I’m currently developing iOS apps*
 
  🖥️  See my linkedin at [here](https://www.linkedin.com/in/simondv2)
 
@@ -21,7 +21,7 @@
 
 ### Languages  
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,c,python,cpp" />
+    <img src="https://skillicons.dev/icons?i=swift,kotlin,java,c,python,cpp" />
 </div>
 
 </td><td valign="top" width="33%">
@@ -29,7 +29,7 @@
 
 ### Frameworks  
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=androidstudio,django,spring,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=apple,androidstudio,django,spring,dotnet" /><br>
 </div>
 
 </td><td valign="top" width="33%">
