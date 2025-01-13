@@ -4,7 +4,7 @@
 
 <div align="center">
 
- 🌍  I'm based in Madrid
+ 🌍  I'm based in Oxted (Uk)
 
  🔭 I’m currently developing iOS apps*
 
