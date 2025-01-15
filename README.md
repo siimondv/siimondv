@@ -3,9 +3,7 @@
 <br/>
 
 <div align="center">
-
- 🌍  I'm based in Oxted (Uk)
-
+ 
  🔭 I’m currently developing iOS apps*
 
  🖥️  See my linkedin at [here](https://www.linkedin.com/in/simondv2)
