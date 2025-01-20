@@ -4,7 +4,7 @@
 
 <div align="center">
  
- 🔭 I’m currently developing iOS apps*
+ 🌞 I love developing*
 
  🖥️  See my linkedin at [here](https://www.linkedin.com/in/simondv2)
 
