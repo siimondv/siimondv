@@ -4,7 +4,7 @@
 
 <div align="center">
  
- 🌞 I love developing*
+ 🌞 I love developing
 
  🖥️  See my linkedin at [here](https://www.linkedin.com/in/simondv2)
 
